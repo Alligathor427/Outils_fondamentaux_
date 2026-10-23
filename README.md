@@ -10,7 +10,7 @@ Dépôt des TPs et du projet final .
 - **TP5 :** Synthèse et robustesse (gestion des fichiers et erreurs).
 - **TP6 :** Géométrie du plan (vecteurs, déterminant, algorithme de Ray Casting / hitbox).
 
-## Projet Final ("RPG Engine")
+## Projet Final 
 
  Fantasy Coach / Optimisation d'effectif Basketball
 
